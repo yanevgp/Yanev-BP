@@ -1,2 +1,2 @@
-# Yanev-BP
+
 # About me
