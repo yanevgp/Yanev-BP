@@ -1,2 +1,2 @@
 # Yanev-BP
-My personal repository.
+# About me
